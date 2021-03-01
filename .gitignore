@@ -1,2 +1,3 @@
-titanic.csv
-StudentsPerfomance.csv
+.idea/
+event_data_train.csv
+submissions_data_train.csv
